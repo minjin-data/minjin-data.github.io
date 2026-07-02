@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minjin-data.github.io/AI-Study-Project/sitemap.xml
